@@ -8,7 +8,7 @@
     
     ![Alt ESP32 C3 Super Mini Pins](assets/esp32c3.webp)
 
-    Source: https://done.land/components/microcontroller/families/esp/esp32/developmentboards/esp32-c3/c3supermini/
+    Source: https://www.espboards.dev/esp32/esp32-c3-super-mini/
 
 - TFT 1.8 inch (ST7735)
 
@@ -24,8 +24,6 @@
     | SDA    | 6        |
     | SCK    | 4        |
     | LED    | 3V3      |
-
-    **The screen is either black or green board.**
 
 - MAX30102 (Sensor)
 
